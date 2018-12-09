@@ -1,0 +1,13 @@
+[
+    {
+        "modid": "eerieentities",
+        "name": "Eerie Entities",
+        "description": "Adds eerie entities to the game.",
+        "version": "${version}",
+        "url": "https://minecraft.curseforge.com/projects/eerie-entities",
+        "authorList": [
+            "Darkhax",
+			"Jared"
+        ]
+    }
+]
