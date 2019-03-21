@@ -1,4 +1,4 @@
-package com.jarhax.eerieentities;
+package net.darkhax.notemastahp;
 
 import java.io.File;
 import java.util.ArrayList;

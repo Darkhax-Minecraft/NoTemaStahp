@@ -1,13 +1,12 @@
 [
     {
-        "modid": "eerieentities",
-        "name": "Eerie Entities",
-        "description": "Adds eerie entities to the game.",
+        "modid": "notemastahp",
+        "name": "NoTemaStahp",
+        "description": "Stops Tema from being a bad boy.",
         "version": "${version}",
-        "url": "https://minecraft.curseforge.com/projects/eerie-entities",
+        "url": "https://minecraft.curseforge.com/projects/no-tema-stahp",
         "authorList": [
-            "Darkhax",
-			"Jared"
+            "Darkhax"
         ]
     }
 ]
